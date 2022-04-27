@@ -14,16 +14,23 @@ KELAS : TI.20.B1
 
 DOSEN : Agung Nugroho,S.Kom.,M.Kom
 
-Pemrograman Web: css frameword (Twitter Bootsrtap)
-Instruksi Praktikum
+# Pemrograman Web: css frameword (Twitter Bootsrtap)
 
-Persiapkan text editor misalnya VSCode.
-Buat folder baru dengan nama lab6_css_framework
-Buat file baru dokumen html
-Buat struktur dasar dari dokumen HTML.
-Buatlah layout web sederhana menggunakan css frameword (Twitter Bootsrtap).
-Lakukan validasi dokumen html dengan mengakses http://validator.w3.org
-Berdasarkan gambar layout web berikut, buatlah menggunakan Twitter Bootstrap.# Lab6web
+## Instruksi Praktikum
+
+1. Persiapkan text editor misalnya VSCode.
+
+2. Buat folder baru dengan nama lab6_css_framework
+
+3. Buat file baru dokumen html
+
+4. Buat struktur dasar dari dokumen HTML.
+
+5. Buatlah layout web sederhana menggunakan css frameword (Twitter Bootsrtap).
+
+6. Lakukan validasi dokumen html dengan mengakses http://validator.w3.org
+
+## Berdasarkan gambar layout web berikut, buatlah menggunakan Twitter Bootstrap.
 
 ![Gambar1](screenshot/ss1.png) 
 
